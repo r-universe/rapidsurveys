@@ -8,3 +8,4 @@
 	url = https://github.com/rapidsurveys/bbw
 	shallow = true
 	registered = true
+	oncran = true
