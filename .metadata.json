@@ -2,5 +2,14 @@
   {
     "package": "bbw",
     "oncran": true
+  },
+  {
+    "package": "oldr"
+  },
+  {
+    "package": "odkr"
+  },
+  {
+    "package": "okapi"
   }
 ]
