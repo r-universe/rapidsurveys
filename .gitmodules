@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/rapidsurveys/universe
-	shallow = true
 	branch = HEAD
 [submodule "bbw"]
 	path = bbw
 	url = https://github.com/rapidsurveys/bbw
-	shallow = true
-	registered = true
-[submodule "oldr"]
-	path = oldr
-	url = https://github.com/rapidsurveys/oldr
-	shallow = true
-	registered = true
 [submodule "odkr"]
 	path = odkr
 	url = https://github.com/rapidsurveys/odkr
-	shallow = true
-	registered = true
 [submodule "okapi"]
 	path = okapi
 	url = https://github.com/rapidsurveys/okapi
-	shallow = true
-	registered = true
+[submodule "oldr"]
+	path = oldr
+	url = https://github.com/rapidsurveys/oldr
