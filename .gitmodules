@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/rapidsurveys/universe
+	url = https://github.com/rapidsurveys/rapidsurveys.r-universe.dev
 	branch = HEAD
 [submodule "bbw"]
 	path = bbw
